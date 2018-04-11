@@ -1,0 +1,5 @@
+#ignoring idea
+.idea
+idea/
+#Ignoring confidential keys
+keys.py
